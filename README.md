@@ -1,4 +1,4 @@
-# Python_Crash_Course_2ndEdition
+# Python_Crash_Course_3rdEdition
 
 ### Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming by Eric Matthes
 
