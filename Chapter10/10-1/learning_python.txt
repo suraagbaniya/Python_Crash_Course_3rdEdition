@@ -1,0 +1,3 @@
+In python you can store different types of datas in variables
+In python you can store multiple datas in lists,tuples, dictionary
+In python you can create real world like objects using instance of class.
