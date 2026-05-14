@@ -1,0 +1,189 @@
+OUTLINE OF A NATURAL SYSTEM OF MEDICAL SCIENCE.
+
+
+
+
+                                  OUTLINE
+                                   OF A
+                              NATURAL SYSTEM
+                                    OF
+                             MEDICAL SCIENCE.
+
+                  FORMING THE PRELIMINARY LECTURES TO TWO
+                  COURSES: ONE ON ANATOMY AND PHYSIOLOGY;
+                      THE OTHER ON PATHOLOGY AND THE
+                           PRACTICE OF MEDICINE.
+
+                         BY ALEXANDER WALKER, ESQ.
+                       LECTURER ON PHYSIOLOGY, ETC.
+               EDITOR OF THE ARCHIVES OF UNIVERSAL SCIENCE,
+                                  &c. &c.
+
+    _By pronouncing diseases incurable, physicians have attempted
+    to enact a law of neglect, and to exempt ignorance from
+    discredit_.
+
+                                                         LORD BACON.
+
+                                EDINBURGH:
+                     PRINTED AT THE UNIVERSITY PRESS.
+              FOR SIR RICHARD PHILLIPS, NO. 6, BRIDGE-STREET,
+                         BLACKFRIARS, LONDON, AND
+                 MESSRS T. BRYCE AND CO. INFIRMARY-STREET,
+                                EDINBURGH.
+                                   1808.
+
+
+
+
+TO
+
+ALEXANDER MONRO, ESQ. SENIOR,
+
+_M. D. Professor of Medicine, Anatomy and Surgery, in the University of
+Edinburgh, &c._
+
+
+This Outline of a Natural System of Medical Science is most respectfully
+dedicated by one who is grateful for the benefits he has conferred upon
+Anatomy and Physiology, and who is desirous of following his footsteps in
+the cultivation of these Sciences.
+
+                                                         ALEXANDER WALKER.
+
+    _2, North College Street,
+        27th October 1808._
+
+
+
+
+ADVERTISEMENT.
+
+
+_In this small Work, the Author has delivered a very brief Outline of
+a Natural Systematic Arrangement and Theory of Anatomy, Physiology,
+Pathology and of the Materia Medica, as strictly dependent on each other._
+
+_Of this system the tendency is, not to controvert one established fact
+of Medical Science, but by pointing out their relations, to simplify, to
+consolidate and if possible to increase the amount of our knowledge in
+all the departments of Medicine._
+
+_As a work of this kind is a fair object of criticism; to the philosophic
+and liberal reviewer I have only to say, that I shall most willingly
+submit to his decision. Error is almost inseparable from propositions of
+any extent or magnitude, and I have doubtless committed many. But to the
+reviewers for the Edinburgh Medical and Surgical Journal, and those of a
+London Review under their influence, as they constitute a party somewhat
+in opposition to my views, I have to observe, that, should they act
+unjustly, as I know them not individually, I must hold their editor, whom
+I do know, responsible for their conduct, and I consequently shall do so._
+
+
+
+
+PRELIMINARY LECTURE TO THE COURSE OF ANATOMY AND PHYSIOLOGY; EXHIBITING
+THE OUTLINE OF A NATURAL SYSTEM OF THESE SCIENCES.
+
+
+GENTLEMEN,
+
+The functions of man are the most interesting objects of Science. Physics
+and Morals are equally involved by them. It is in them that the physical
+sciences terminate, and that the moral sciences have their origin.
+
+Of what avail are the former, but to develope the influence of external
+bodies upon the functions of man? What are the latter, but the results of
+the reaction of that influence upon men in society?
+
+To explain them is the business of physiology; and if it have hitherto
+failed in doing so—if it have even neglected the noblest of all the
+functions—I should say the noblest branch of philosophy—the intellectual
+functions of man, and have abandoned them to persons totally incapable of
+developing them, because totally ignorant of the structure on which they
+depend, and who have left them in a state of greater obscurity than that
+in which they found them, that is the fault of physiologists, and not of
+their science.
+
+In these lectures, I shall at least be influenced by the deepest sense of
+such errors.
+
+But it is not merely the philosophy of the human mind, or rather of
+the intellectual functions of man, that have thus been abandoned to
+barbarism. The science itself has never been systematized; and all its
+individual parts have been so neglected, that the other sciences and the
+arts dependent upon it, have been left in similar obscurity.
+
+I shall endeavour to shew that it is by the aid of physiology alone that,
+in explaining the functions of the eye, for instance, we can render
+perfect the theories of colour and of vision; that, in explaining the
+functions of the ear, we can construct rational ones of phonics and of
+hearing; that in explaining the functions of the organ of voice, we
+can illustrate the formation of letters, and the origin of languages;
+that, in explaining the functions of the muscles, we can establish those
+first principles of taste in the fine arts, the very existence of which
+have so often been questioned, and so deliver a theory of movement and
+of attitude, applicable to sculpture, the higher species of painting,
+gesture in oratory, &c. In fine, it is by physiological means only,
+that we can construct a natural theory of medicine, and render precise
+and easy, the most delicate and the most difficult of the operations of
+surgery.
+
+To effect these purposes, nothing is more necessary than arrangement,
+because it at once involves facts and their theory, or the reasonings
+founded upon them.
+
+       *       *       *       *       *
+
+In considering a natural arrangement of Anatomy and Physiology, it
+appears to me an unquestionable point, that it ought to indicate, at a
+single glance, the relation of all the functions to and their dependence
+upon each other.
+
+It is upon this principle that I have constructed the natural arrangement
+which I am about to detail; and a single remark upon the arrangements
+adopted by the most celebrated modern physiologists, will, at once, shew
+the originality of the plan which I propose, and point out the errors of
+arrangement which I deprecate.
+
+Blumenbach, Chausier, Dumas and Bichat, treat of circulation before
+absorption, on which it depends, and even before mastication, deglutition
+and digestion, on which, in general, even absorption itself chiefly
+depends.
+
+If the arrangement of Chausier in particular, who, in this respect, is as
+accurate as any of them, were to be considered as indicating the relation
+and dependence of the functions, so absurd is it, that absorption instead
+of the cause, would be the result of nutrition, generation the result of
+absorption, and digestion the result of generation. Thus, by arranging
+effects in the place of causes, they confound the relations of the
+functions, and reverse the very order of their dependence.
+
+The division of the functions into external and internal, as anciently
+proposed by Aristotle, and afterwards successively adopted and improved
+by Buffon, Grimaud and Bichat (the last of whom substituted for them the
+terms organic and animal) is still more faulty.
+
+Anatomy, I divide into three parts, namely that which considers the
+mechanical or loco-motive organs, that which considers the vital organs,
+and that which considers the intellectual organs.
+
+Under the mechanical or loco-motive organs, I class, first, the bones
+which support the rest of the animal structure; second, the ligaments
+which unite them; and third, the muscles which move them.
+
+Under the vital organs, I class, first, the organs of digestion, the
+absorbent surfaces, and the vessels which absorb from these surfaces;
+second, the heart, lungs and blood-vessels, which derive their contents
+(the blood) from the absorbed lymph; and third, the organs of secretion,
+which separate various matters from the blood. Then follow the generative
+organs, which, though generally formed into a distinct class from the
+vital, ought not by any means to be so reckoned. For it is evident, that
+they form, as it were, the sequel of the vital organs, being dependent
+on secretion—the last of the vital functions, and destined merely to
+propagate vitality, and to communicate it to a new series of beings.
+
+Under the intellectual organs, I class, first, the organs of sense, where
+impressions take place; second, the brain or organ of judgment, where
+these excite ideas; and third, the nerves, where volition results from
+the last.
