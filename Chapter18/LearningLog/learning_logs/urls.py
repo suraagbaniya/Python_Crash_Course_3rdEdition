@@ -6,5 +6,7 @@ from . import views
 
 urlpatterns = [
     #Home page
-    path(route = "", view = views.index, name = "index")
+    path(route = "", view = views.index, name = "index"),
+    path(route = "topics/", view = views.topics, name= 'topics'),
+    path(route= "topics/(?P<topic_id>\d+)/", view= views.topic, name= 'topic')
 ]
