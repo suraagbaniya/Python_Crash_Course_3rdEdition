@@ -1,0 +1,7 @@
+<p>Add a new posts:</p>
+
+<form action="{% url 'blogs:new_post' %}" method='post'>
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button name = "submit">Add Post</button>
+</form>

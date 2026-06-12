@@ -1,0 +1,11 @@
+<p>Blog Post</p>
+
+<ul>
+    {% for post in posts %}
+        <li>{{post}}</li>
+    {% empty %}
+        <li>No posts have been made</li>
+    {% endfor %}
+</ul>
+
+<a href = "{% url 'blogs:new_post' %}">Add a blog post:</a>
